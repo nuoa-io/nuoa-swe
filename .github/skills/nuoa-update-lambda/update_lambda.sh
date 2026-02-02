@@ -1,0 +1,1 @@
+../../../repos/nuoa-io-backend-tenant-services/src/java/update_lambda.sh

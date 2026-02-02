@@ -1,0 +1,1 @@
+../../../repos/nuoa-io-backend-tenant-services/src/python/scripts/call_api.py

@@ -1,12 +1,12 @@
 [submodule "repos/admin-console-nuoa-react"]
 	path = repos/admin-console-nuoa-react
-	url = git@github-nuoa:nuoa-io/admin-console-nuoa-react.git
+	url = git@github.com:nuoa-io/admin-console-nuoa-react.git
 [submodule "repos/nuoa-io-admin-ui"]
 	path = repos/nuoa-io-admin-ui
-	url = git@github-nuoa:nuoa-io/nuoa-io-admin-ui.git
+	url = git@github.com:nuoa-io/nuoa-io-admin-ui.git
 [submodule "repos/nuoa-io-backend-shared-services"]
 	path = repos/nuoa-io-backend-shared-services
-	url = git@github-nuoa:nuoa-io/nuoa-io-backend-shared-services.git
+	url = git@github.com:nuoa-io/nuoa-io-backend-shared-services.git
 [submodule "repos/nuoa-io-backend-tenant-services"]
 	path = repos/nuoa-io-backend-tenant-services
-	url = git@github-nuoa:nuoa-io/nuoa-io-backend-tenant-services.git
+	url = git@github.com:nuoa-io/nuoa-io-backend-tenant-services.git

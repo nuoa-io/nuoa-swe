@@ -377,6 +377,7 @@ vercel --prod
 
 Located in [`.github/skills/`](.github/skills/):
 
+- **[nuoa-feature-development](.github/skills/nuoa-feature-development/SKILL.md)**: Structured workflow for implementing features across all repos
 - **[nuoa-call-tenant](.github/skills/nuoa-call-tenant/SKILL.md)**: Call tenant API endpoints
 - **[nuoa-update-lambda](.github/skills/nuoa-update-lambda/SKILL.md)**: Update Lambda functions
 - **[nuoa-reindex](.github/skills/nuoa-reindex/SKILL.md)**: Reindex DynamoDB tables

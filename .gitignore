@@ -1,5 +1,4 @@
-# repos
-repos
+# repos - moved to .git/info/exclude for local-only ignore
 
 # Python
 __pycache__/

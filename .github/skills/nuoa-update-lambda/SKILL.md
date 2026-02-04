@@ -188,6 +188,10 @@ bash .github/skills/nuoa-update-lambda/update_lambda.sh \
 ## Troubleshooting
 
 ### "Could not find deployment bucket"
+- **First, try AWS SSO login**: `aws sso login --profile nuoa-beta` (or your corresponding profile)
+  - This error commonly occurs when AWS credentials have expired
+  - SSO session expiration prevents CloudFormation API calls
+  - Re-authenticate before troubleshooting further
 - Ensure CDK stack is deployed for the stage/tenant
 - Verify --stage and --tenant-id parameters match deployed stack
 - Check export name format: `DeploymentBucket-{stage}-{tenant-id}-2`

@@ -1,9 +1,6 @@
 ---
 name: aws-cli
-description: |
-  CLI-first AWS orchestration skill for Lambda, ECS/Fargate, and S3 workflows rooted in `.☁️` runbooks.
-version: 0.1.0
-allowed-tools: Read, Write, Edit, Grep, Glob, Bash, codebase_investigator, web_fetch, write_todos
+description: CLI-first AWS orchestration skill for Lambda, ECS/Fargate, and S3 workflows rooted in `.☁️` runbooks.
 ---
 
 ## Why This Skill Exists
